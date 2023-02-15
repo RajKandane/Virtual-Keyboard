@@ -25,3 +25,5 @@ virtual keyboard application.
 --OpenCV has a bunch of pre-trained classifiers that can be used to identify finger and gesture.
 
 --With the help of OpenCV, we can build an enormous number of applications that work better in real time.
+
+https://youtu.be/hEfXnnKTFzQ
