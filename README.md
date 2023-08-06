@@ -1,17 +1,12 @@
 # HUMAN-COMPUTER INTERACTION USING ON-AIR VIRTUAL KEYBOARD
 AUG 2022 - JUN 2023
-
-
-Data Profile: On-Air Virtual Keyboard - Human-Computer Interaction
-
-Project Title: On-Air Virtual Keyboard - Human-Computer Interaction
-Duration: August 2022 - June 2023
 Project Youtube link: [https://youtu.be/hEfXnnKTFzQ]
 
-Project Overview:
+
+##Project Overview:
 The On-Air Virtual Keyboard is a cutting-edge project that aims to revolutionize human-computer interaction by developing a touchless virtual keyboard. The project utilizes advanced computer vision and machine learning techniques to recognize finger movements and gestures in the air and translate them into keyboard input. The touchless interface offers a convenient and hygienic alternative to physical keyboards, making it suitable for various applications, including smart devices, virtual reality, and interactive displays.
 
-Project Objectives:
+##Project Objectives:
 1. Develop a user-friendly interface with adaptive key size and centroid distance between keys for improved usability.
 2. Implement a finger action detection system for precise in-air typing interactions.
 3. Integrate computer vision algorithms to accurately recognize and interpret finger movements and gestures.
