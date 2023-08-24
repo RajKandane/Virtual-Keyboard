@@ -130,6 +130,40 @@ The current version of the On-Air Virtual Keyboard is a cutting-edge project tha
 
 Contributions to the On-Air Virtual Keyboard project are highly appreciated. If you wish to contribute, please feel free to submit a pull request. Whether it's fixing bugs, adding new features, or improving documentation, every contribution is valuable.
 
+### Requirements
+
+Before you run this project, make sure you have the following dependencies installed:
+
+1. **OpenCV-Python Library**
+
+   You need the OpenCV-Python library for image processing tasks. Install it using the following command:
+   ```bash
+   pip install opencv-python
+
+2. **Mediapipe Library**
+
+    The Mediapipe library is used for hand tracking. Install it using the following command:
+   ```bash
+   pip install mediapipe
+
+
+3. **cvzone Library (Version 1.5)**
+
+   This project uses cvzone version 1.5 due to compatibility reasons. Install it with the following command:
+    ```bash
+    pip3 install cvzone==1.5
+
+
+4. **Pynput Library**
+
+    To use the virtual keyboard on other applications, you need the pynput library. Install it using the following command:
+    ```bash
+    pip3 install pynput
+
+Make sure to install these dependencies before running the project.
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details. 
