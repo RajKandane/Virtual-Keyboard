@@ -3,9 +3,13 @@ AUG 2022 - JUN 2023
 
 # Virtual Keyboard Demo
 
-Check out the On-Air Virtual Keyboard in action on YouTube:
+<div align="center">
+  <p>Check out the On-Air Virtual Keyboard in action on YouTube:</p>
+  <a href="https://youtu.be/hEfXnnKTFzQ">
+    <img src="https://img.youtube.com/vi/hEfXnnKTFzQ/0.jpg" alt="Virtual Keyboard Demo">
+  </a>
+</div>
 
-[![Virtual Keyboard Demo](https://img.youtube.com/vi/hEfXnnKTFzQ/0.jpg)](https://youtu.be/hEfXnnKTFzQ)
 
 
 ## Project Overview:
