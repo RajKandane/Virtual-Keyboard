@@ -1,1 +1,6 @@
-
+pip install cvzone
+pip install mediapipe
+pip install pynput
+pip install tkinter
+pip install time
+pip install numpy
