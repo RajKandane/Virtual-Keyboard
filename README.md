@@ -10,6 +10,8 @@ AUG 2022 - JUN 2023
   </a>
 </div>
 
+## Project Code Explanation 
+For [Project Code Explanation](Virtual%20keyboard/Virtual%20keyboard%20Explanation.pdf) open this file. 
 
 
 ## Project Overview:
@@ -21,6 +23,11 @@ The On-Air Virtual Keyboard is a cutting-edge project that aims to revolutionize
 3. Integrate computer vision algorithms to accurately recognize and interpret finger movements and gestures.
 4. Create a virtual keyboard application that can seamlessly replace physical keyboards for typing and input commands.
 5. Evaluate the performance and usability of the On-Air Virtual Keyboard through user testing and feedback.
+
+## Hand Landmarks 
+
+![Hand Landmarks](Virtual%20keyboard/Code/hand_landmarks.png)
+
 
 ## Project Timeline
 
