@@ -72,7 +72,7 @@ def drawSpecial(img, spacial_keys):
 def openFile():
     global newtext
     newtext = ""
-    filepath = filedialog.askopenfilename(initialdir="D:\\programs\\timepass",
+    filepath = filedialog.askopenfilename(initialdir="D:\\programs\\4th_year_project\\Virtual Keyboard Document",
 
                                           title="Open file okay?",
                                           filetypes=(("text files", "*.txt"),
@@ -86,7 +86,7 @@ def openFile():
 
 def save(newtext):
     try:
-        filepath = filedialog.askopenfilename(initialdir="D:\\programs\\timepass",
+        filepath = filedialog.askopenfilename(initialdir="D:\\programs\\4th_year_project\\Virtual Keyboard Document",
                                               title="Open file okay?",
                                               filetypes=(("text files", "*.txt"),
                                                          ("all files", "*.*")))
